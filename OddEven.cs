@@ -1,6 +1,4 @@
-using System;
-
-class OddEven
+public class OddEven
 {
     public string solution(int num)
     {
