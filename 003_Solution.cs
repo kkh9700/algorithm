@@ -1,6 +1,6 @@
 using System;
 
-public class SumDigit
+public class Solution003
 {
     public int solution(int n)
     {

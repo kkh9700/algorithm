@@ -1,4 +1,4 @@
-public class OddEven
+public class Solution001
 {
     public string solution(int num)
     {

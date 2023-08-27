@@ -1,6 +1,6 @@
 using System;
 
-public class Solution
+public class Solution005
 {
     public int solution(int n)
     {

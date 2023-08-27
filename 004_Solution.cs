@@ -1,5 +1,5 @@
 using System;
-public class SumMeasure
+public class Solution004
 {
     public int solution(int n)
     {

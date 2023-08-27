@@ -1,4 +1,4 @@
-public class Average
+public class Solution002
 {
     public double solution(int[] arr)
     {
