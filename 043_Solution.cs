@@ -18,8 +18,6 @@ public class Solution043
 
     public int AddScore(int score, int[] array)
     {
-        int min = 0;
-
         for (int i = 0; i < array.Length; i++)
         {
             if (array[i] < score)
