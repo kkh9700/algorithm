@@ -8,9 +8,9 @@ C:\Users\patt1\Desktop\work\C#\algorithm\bin\Debug\net5.0\algorithm.deps.json
 C:\Users\patt1\Desktop\work\C#\algorithm\bin\Debug\net5.0\algorithm.runtimeconfig.json
 C:\Users\patt1\Desktop\work\C#\algorithm\bin\Debug\net5.0\algorithm.runtimeconfig.dev.json
 C:\Users\patt1\Desktop\work\C#\algorithm\bin\Debug\net5.0\algorithm.dll
-C:\Users\patt1\Desktop\work\C#\algorithm\bin\Debug\net5.0\ref\algorithm.dll
 C:\Users\patt1\Desktop\work\C#\algorithm\bin\Debug\net5.0\algorithm.pdb
 C:\Users\patt1\Desktop\work\C#\algorithm\obj\Debug\net5.0\algorithm.dll
 C:\Users\patt1\Desktop\work\C#\algorithm\obj\Debug\net5.0\ref\algorithm.dll
 C:\Users\patt1\Desktop\work\C#\algorithm\obj\Debug\net5.0\algorithm.pdb
 C:\Users\patt1\Desktop\work\C#\algorithm\obj\Debug\net5.0\algorithm.genruntimeconfig.cache
+C:\Users\patt1\Desktop\work\C#\algorithm\obj\Debug\net5.0\refint\algorithm.dll

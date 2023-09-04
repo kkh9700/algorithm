@@ -10,7 +10,7 @@ public class Solution035
         {
             char ch = s[i];
 
-            if (ch == ' ') ;
+            if (ch == ' ') { }
             else if (ch < 'a')
             {
                 ch = (char)(ch + n);
