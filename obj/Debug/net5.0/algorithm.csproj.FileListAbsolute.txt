@@ -1,4 +1,3 @@
-C:\Users\patt1\Desktop\work\C#\algorithm\obj\Debug\net5.0\algorithm.csproj.AssemblyReference.cache
 C:\Users\patt1\Desktop\work\C#\algorithm\obj\Debug\net5.0\algorithm.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\patt1\Desktop\work\C#\algorithm\obj\Debug\net5.0\algorithm.AssemblyInfoInputs.cache
 C:\Users\patt1\Desktop\work\C#\algorithm\obj\Debug\net5.0\algorithm.AssemblyInfo.cs
