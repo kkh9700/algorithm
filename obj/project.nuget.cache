@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NIw3JtDYpfZm7ls5+9tEgEWxBjaiDwJnMdLEQhIcSDudmu06kjHdnAxSDdmegOYpA76vlvS6SrX7A3CNAmgGvQ==",
+  "dgSpecHash": "zhlKdJSwgaXylr9vXgjSbPKTB784r5QQJLt21emcMVJq+6zkvAiqWBsNdX7hGYAqSKiwJYvshmyQBGVc37OYcQ==",
   "success": true,
   "projectFilePath": "c:\\Users\\patt1\\Desktop\\work\\C#\\algorithm\\algorithm.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\patt1\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\patt1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\patt1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\patt1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
