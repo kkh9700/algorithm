@@ -21,7 +21,6 @@ public class Solution075
             }
         }
 
-
         return set.Count;
     }
 }
