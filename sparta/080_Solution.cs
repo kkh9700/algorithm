@@ -5,21 +5,23 @@ public class Solution080
 {
     public int solution(string[,] clothes)
     {
-        Dictionary<string, HashSet<string>> dic = new Dictionary<string, HashSet<string>>();
-
+        Dictionary<string, int> dic = new Dictionary<string, int>();
         for (int i = 0; i < clothes.GetLength(0); i++)
         {
-            string name = clothes[0, 0], type = clothes[0, 1];
+            string type = clothes[i, 1];
             if (!dic.ContainsKey(type))
-            {
-                dic[type] = new HashSet<string>();
-            }
+                dic[type] = 0;
 
-            dic[type].Add(name);
+            dic[type]++;
         }
 
+        int answer = 1;
 
+        foreach (var v in dic)
+        {
+            answer *= v.Value + 1;
+        }
 
-        return 0;
+        return answer - 1;
     }
 }
