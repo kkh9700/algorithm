@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\patt1\\Desktop\\work\\C#\\algorithm\\algorithm.csproj": {}
+    "C:\\Users\\patt1\\Desktop\\work\\C#\\algorithm\\algorithm.csproj": {}
   },
   "projects": {
-    "c:\\Users\\patt1\\Desktop\\work\\C#\\algorithm\\algorithm.csproj": {
+    "C:\\Users\\patt1\\Desktop\\work\\C#\\algorithm\\algorithm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\patt1\\Desktop\\work\\C#\\algorithm\\algorithm.csproj",
+        "projectUniqueName": "C:\\Users\\patt1\\Desktop\\work\\C#\\algorithm\\algorithm.csproj",
         "projectName": "algorithm",
-        "projectPath": "c:\\Users\\patt1\\Desktop\\work\\C#\\algorithm\\algorithm.csproj",
+        "projectPath": "C:\\Users\\patt1\\Desktop\\work\\C#\\algorithm\\algorithm.csproj",
         "packagesPath": "C:\\Users\\patt1\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\patt1\\Desktop\\work\\C#\\algorithm\\obj\\",
+        "outputPath": "C:\\Users\\patt1\\Desktop\\work\\C#\\algorithm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\patt1\\AppData\\Roaming\\NuGet\\NuGet.Config",
