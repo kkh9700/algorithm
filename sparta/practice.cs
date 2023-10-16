@@ -16,6 +16,9 @@ public class practice
         var practice = report.Distinct().
             Select(s => s.Split(' '));
 
+        List<int> list = new List<int>();
+
+
         return id_list.ToDictionary(x => x, x => tReport.Count(c => x == c)).Values.ToArray();
     }
 }

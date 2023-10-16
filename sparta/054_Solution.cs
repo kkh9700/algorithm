@@ -13,8 +13,6 @@ public class Solution054
 
         for (int i = 1; i <= n; i++)
         {
-            bool flag = true;
-
             if (i != 1 && students[i] == -1 && students[i - 1] == 1)
             {
                 students[i]++;
